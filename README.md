@@ -1,4 +1,4 @@
-# atlassian-jwt
+# atlassian-jwtsd
 
 <h1 align="center">
   <br>
